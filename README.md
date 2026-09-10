@@ -17,7 +17,6 @@ Las reglas tributarias de los países donde operamos cambian más rápido que cu
 ### 🏗️ Cómo está armado
 
 *   🧱 **Monolito Rails:** El core robusto de nómina.
-*   🧩 **Microservicios:** Dominios específicos desacoplados.
 *   ☁️ **AWS multi-región:** Arquitectura elástica para absorber los picos de cierre de mes.
 *   ⚛️ **Frontend:** Operamos con monorepos y librerías de componentes centralizadas para mantener un tipado estricto (TS).
 

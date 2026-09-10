@@ -2,7 +2,7 @@
 
 Las reglas tributarias de los países donde operamos cambian más rápido que cualquier stack de moda. Elegimos herramientas maduras para que la complejidad viva en el dominio, no en la infraestructura.
 
-<video src="https://github.com/user-attachments/assets/2844f771-610d-42b6-a6e6-ae334a6c07e4" controls width="100%"></video>
+> **[▶️ Ver: Criterios técnicos de nuestro stack (Boring Tech)](https://github.com/user-attachments/assets/2844f771-610d-42b6-a6e6-ae334a6c07e4)**
 
 ## Stack Tecnológico 
 `Ruby on Rails` `PostgreSQL` `TypeScript` `PHP` `Kubernetes`
